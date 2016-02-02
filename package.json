@@ -1,6 +1,6 @@
 {
   "name": "number-digits",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Get an array of all digits in an array (in any base)",
   "main": "index.js",
   "scripts": {
